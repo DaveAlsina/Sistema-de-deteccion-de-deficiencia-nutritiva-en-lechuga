@@ -1,0 +1,80 @@
+deficiencia,extra info
+Nitrogeno,"El nitrógeno en las plantas forma la clorofila, los aminoácidos y ácidos nucleicos, 
+con lo que su ausencia inhibe rápidamente el crecimiento de la planta, el nitrógeno es un nutriente móvil
+con lo que las hojas jóvenes no son las primeras en ser afectadas y por otra parte,
+este nutriente puede ser movilizado de las hojas viejas a las nuevas. En algunos casos debido a
+que los carbohidratos almacenados no se pueden emplear en el metabolismo de aminoácidos, 
+los tallos se tornan morados o leñosos"
+Azufre,"Compone muchas coenzimas y vitaminas esenciales para el metabolismo, varios síntomas de la deficiencia
+ de azufre son similares a los de nitrógeno, debido a que ambos tienen un rol importante en la producción de
+ proteínas, la deficiencia de azufre afecta a las hojas jóvenes y maduras debido a que este nutriente no tiene 
+tan fácil movilidad como el nitrógeno."
+Fósforo,"El fósforo es un nutriente de muy alta importancia porque compone el azúcar de la planta,
+ intermedia en el proceso de respiración de esta y además compone la membrana
+ fosfolipídica que compone a las células de la planta, también es un importante 
+componente de los nucleótidos, los cuales componen el ADN y RNA de la planta."
+Silicio,"Muchas especies de plantas acumulan silicio en sus tejidos y muestran un crecimiento
+ aumentado, fertilidad y resistencia al estrés (Esto cuando las cantidades son las adecuadas),
+ el silicio forma complejos con los polifenoles y por ello contribuye como complemento
+ a la lignina en el proceso de refuerzo de las paredes celulares, por otra parte el silicio 
+puede ayudar a disminuir la toxicidad de muchos metales, incluido el aluminio y el manganeso."
+Boro,"A Pesar de que no hay mucha claridad sobre la función del boro, los estudios apuntan
+ a que tiene efecto en la elongación celular, en la síntesis de ácidos nucleicos, 
+respuestas hormonales, funciones de la membrana y regulación del ciclo celular. La deficiencia
+ de boro puede presentar gran variedad de síntomas dependiendo de la especie y la etapa de
+ desarrollo de la planta. Uno de los síntomas es que hay un decaimiento en partes de la planta
+ tales como los frutos, decaimiento en raíces carnosas, y en algunos tubérculos produce necrosis."
+Hierro,"El hierro tiene un importante rol en las enzimas envueltas en las reacciones redox  ya que
+ permite la transferencia de electrones en las plantas. Su deficiencia se presenta principalmente
+ en hojas jóvenes ya que difícilmente se pueden pasar de las hojas viejas a las jóvenes;
+ pues, como se sabe, las hojas viejas tienden a pasar nutrientes a las más jóvenes. 
+Esta dificultad en su movilidad se debe a su precipitación en las hojas viejas como óxidos
+ insolubles o fosfatos. Además, el hierro es fundamental en la síntesis de clorofila (proteína 
+compleja que permite la coloración verde en la hoja); por ende, si hay ausencia de hierro, 
+las hojas suelen tornarse amarillentas."
+Manganeso,"El manganeso en las plantas suele activar múltiples enzimas en las células de las mismas, 
+especialmente aquellas que actúan en el ciclo de Krebs. Además de ello, cumple un rol 
+fundamental en la producción de oxígeno a partir de agua en la fotosíntesis. De allí que 
+su ausencia generen los puntos negros y la coloración amarillenta."
+Cobre,"Al igual que el hierro, el cobre está asociado con las enzimas de las reacciones redox y,
+ además, está involucrado en la fotosíntesis de las plantas. Por ende, cuando existe 
+ausencia de cobre en las plantas, las hojas suelen tornarse verde oscuro y necrosis."
+Niquel,"En las plantas, el níquel es requerido en una mínima proporción; y su principal 
+función es la de actuar en la enzima ureasa para que ésta pueda reprocesar el 
+hidrógeno generado en la fijación de las plantas. Por ello, la necrosis observada
+ en su ausencia es causada por la urea acumulada en las hojas incapaz de procesar el hidrógeno. "
+Molibdeno,"El molibdeno es esencial en varias enzimas de las plantas. Una de sus funciones
+ es la de reducción de nitratos a nitritos durante la asimilación de las células de las
+ plantas. De allí que una deficiencia de molibdeno genere también una deficiencia 
+de nitrógeno y síntomas muy similares."
+Potasio,"El Potasio es el regulador de la cantidad de agua que poseen las moléculas para realizar
+un trabajo, y si presenta estos síntomas, significa que es deficiente la cantidad de potasio.
+Esto debido a la destrucción o imposibilidad de sintetizar la clorofila."
+Calcio,"El Calcio tiene dos papeles distintos en el papel estructural / apoplástico
+de las plantas por el cual el Ca se une a grupos ácidos de lípidos de 
+membrana (fosfo y fosfolípidos) y pectinas reticulantes. Función de
+ señalización mediante la cual el ion Calcio actúa como un segundo mensajero 
+que inicia las respuestas de la planta a los estímulos ambientales. 
+(Necrosis, eliminación de clorofila o insuficiencia de producción de 
+clorofila - Clorosis, muerte del tejido “células muertas”)."
+Magnesio,"En las células vegetales, los iones de magnesio tienen un papel específico 
+en la activación de las enzimas involucradas en la respiración, la fotosíntesis
+y la síntesis de ADN y ARN. Si la cantidad de Magnesio es deficiente genera 
+clorosis, muerte del tejido “células muertas”, ocurre primero en las hojas más
+ viejas debido a la alta movilidad de este catión siendo normal, pero si sucede 
+en las jóvenes hay que preocuparse por esta deficiencia en la planta. (Un síntoma
+ adicional de deficiencia de magnesio puede ser la senescencia y la abscisión 
+prematura de las hojas - Senescencia y abscisión prematura de las hojas)."
+Cloro,"El elemento cloro se encuentra en las plantas como el ion cloro. 
+Se requiere para la reacción de división de agua de la fotosíntesis
+a través de la cual se produce oxígeno. Las plantas con deficiencia 
+de cloro desarrollan marchitez de las puntas de las hojas, seguidas
+de clorosis foliar general y necrosis."
+Zinc,"Muchas enzimas requieren iones de zinc para su actividad, y el zinc puede
+ser requerido para la biosíntesis de clorofila en algunas plantas.
+La deficiencia de zinc se caracteriza por una reducción en el crecimiento intermodal
+ y, como resultado, las plantas crecen en forma desordenada."
+Sodio,"Bajo deficiencia de sodio, estas plantas exhiben clorosis y necrosis, 
+o incluso caen para formar flores. Los iones de sodio estimulan el
+crecimiento a través de una mayor expansión celular y pueden sustituir 
+en parte a los iones de potasio como un soluto osmóticamente activo."
