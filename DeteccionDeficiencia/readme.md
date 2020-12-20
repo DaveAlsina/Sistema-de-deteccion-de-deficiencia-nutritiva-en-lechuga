@@ -1,4 +1,4 @@
-#Guia de uso
+# Guia de uso
 ---------------------------
 
 Para poder efectivamente ejecutar el código:
@@ -10,7 +10,7 @@ mate la ejecución del código y vuelva a repetir el proceso de ejecutarlo.
 
 Finalmente ejecute y disfrute de la asistencia en diagnóstico que ofrece este sistema :).
 
-##precausiones con los datos
+## precausiones con los datos
 ------------------------------
 
 
@@ -25,7 +25,7 @@ está haciendo, en otro caso podría llegar a dañar la funcionalidad
 de la solución de código y se vería obligado a reinstalarlo***.
 
 
-##fuentes y manejo de los datos
+## fuentes y manejo de los datos
 ------------------------------
 
 Todas las imágenes usadas y la información que se da sobre síntomas
@@ -35,7 +35,7 @@ citada en el documento "Datos Deficiencias Nutricionales.pdf" en la carpeta
 'fuentes _ y _ documentación'.
 
 
-##disclaimer
+## disclaimer
 -----------------------
 
 Esta solución implementada en python no pretende ser una guia absoluta 
@@ -48,7 +48,7 @@ de a este cógido es total responsabilidad del usuario.
 
 
 
-##Documentación
+## Documentación
 ---------------
 
 
